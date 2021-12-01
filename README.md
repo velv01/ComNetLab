@@ -1,1 +1,1 @@
-# ComNetLab
+# Computer Networks Lab
